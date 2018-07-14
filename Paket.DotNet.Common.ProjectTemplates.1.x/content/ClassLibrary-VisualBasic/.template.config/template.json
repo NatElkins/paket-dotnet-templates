@@ -2,7 +2,7 @@
   "$schema": "http://json.schemastore.org/template",
   "author": "Nat Elkins",
   "classifications": ["Common", "Library", "Paket"],
-  "name": "Class library",
+  "name": "Paket Class library",
   "generatorVersions": "[1.0.0.0-*)",
   "description": "A project for creating a Paket-managed class library that targets .NET Standard or .NET Core",
   "groupIdentity": "Paket.Common.Library",
